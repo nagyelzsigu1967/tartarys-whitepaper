@@ -1,4 +1,3 @@
-# tartarys-whitepaper
 # Tartarys Whitepaper
 
 This repository contains the public release of **Tartarys Whitepaper v1**.
