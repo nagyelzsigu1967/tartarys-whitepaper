@@ -30,6 +30,7 @@ through transparent discussion.
 **Status:** Public release  
 **Contact:** tartarysempire@proton.me
 
-📄 **Whitepaper (PDF):**  
-[Tartarys Whitepaper v1](./paper/Tartarys_Whitepaper_v1.pdf)
+📄 Whitepaper (PDF download):  
+https://raw.githubusercontent.com/nagyelzsigu1967/tartarys-whitepaper/main/paper/Tartarys_Whitepaper_v1.pdf
+
 
