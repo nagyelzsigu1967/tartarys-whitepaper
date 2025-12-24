@@ -29,3 +29,6 @@ through transparent discussion.
 **Current version:** v1  
 **Status:** Public release  
 **Contact:** tartarysempire@proton.me
+📄 **Whitepaper (PDF):**  
+[Tartarys Whitepaper v1](./paper/Tartarys_Whitepaper_v1.pdf)
+
