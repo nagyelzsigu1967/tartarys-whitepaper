@@ -34,3 +34,4 @@ through transparent discussion.
 https://raw.githubusercontent.com/nagyelzsigu1967/tartarys-whitepaper/main/paper/Tartarys_Whitepaper_v1.pdf
 
 
+
