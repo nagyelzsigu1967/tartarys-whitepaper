@@ -29,8 +29,9 @@ through transparent discussion.
 **Status:** Public release  
 **Contact:** tartarysempire@proton.me
 
-📄 Whitepaper (PDF download):  
-https://raw.githubusercontent.com/nagyelzsigu1967/tartarys-whitepaper/main/paper/tartarys_whitepaper_v1.pdf
+
+📄 **Tartarys Whitepaper v1 (PDF):**  
+[Download (RAW)](https://raw.githubusercontent.com/nagyelzsigu1967/tartarys-whitepaper/main/paper/tartarys_whitepaper_v1.pdf)
 
 
 
