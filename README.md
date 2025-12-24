@@ -30,7 +30,7 @@ through transparent discussion.
 **Contact:** tartarysempire@proton.me
 
 📄 Whitepaper (PDF download):  
-https://raw.githubusercontent.com/nagyelzsigu1967/tartarys-whitepaper/main/paper/Tartarys_Whitepaper_v1.pdf
+https://raw.githubusercontent.com/nagyelzsigu1967/tartarys-whitepaper/main/paper/tartarys_whitepaper_v1.pdf
 
 
 
