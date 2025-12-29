@@ -23,6 +23,15 @@ No authority is claimed.
 Readers are invited to witness, reflect, and propose improvements
 through transparent discussion.
 
+## Conceptual Background
+
+Tartarys is built on the recognition that trust, legitimacy, and order can emerge organically within human networks — without coercion, central enforcement, or imposed authority.
+
+The project draws inspiration from network-based models of social organization, where reputation, visibility, and collective acknowledgment act as stabilizing forces. In such systems, ethical behavior scales naturally with community size, and misconduct is addressed through transparency rather than force.
+
+Tartarys applies this network logic to cultural, spiritual, and intellectual value preservation in a decentralized, community-governed framework.
+
+
 ---
 
 **Current version:** v1  
